@@ -23,10 +23,10 @@ These assignments helped me strengthen my fundamentals in:
 
 ##  View Notebook
 You can directly view the notebook here:  
- [python_assignment.ipynb](python_assignment.ipynb)
+ [python_assignment.ipynb]()
 
 Or open it in Google Colab:  
- [Open in Colab](https://colab.research.google.com/github/YourUsername/python-assignments-learning/blob/main/python_assignment.ipynb)
+ [Open in Colab](https://colab.research.google.com/drive/1BQpV_VF0yYLFo_8JSnMHduY_68uJqVVf#scrollTo=JbaxHHKLrP48)
 
 ---
 💡 *This repository is a part of my continuous learning in Python and Data Analysis.*

@@ -23,7 +23,7 @@ These assignments helped me strengthen my fundamentals in:
 
 ##  View Notebook
 You can directly view the notebook here:  
- [python_assignment.ipynb]()
+ [python_assignment.ipynb](https://github.com/Abhilasha2003/Python-Course-Assignment/blob/main/python_assisngment.ipynb)
 
 Or open it in Google Colab:  
  [Open in Colab](https://colab.research.google.com/drive/1BQpV_VF0yYLFo_8JSnMHduY_68uJqVVf#scrollTo=JbaxHHKLrP48)
